@@ -8,6 +8,7 @@ A list of cool websites from different countries
 * https://www.wildberries.ru/
 * https://www.cantata.ru/
 * https://www.pik.ru/
+* https://pikabu.ru/
 
 ## Ukraine
 
