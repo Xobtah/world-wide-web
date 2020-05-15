@@ -1,6 +1,10 @@
 # world-wide-web
 A list of cool websites from different countries
 
+What's the criteria for a website to be branded as "cool" ?
+1. I have to like it
+2. That's all
+
 ## Russia
 
 * https://sbermarket.ru/
@@ -10,6 +14,7 @@ A list of cool websites from different countries
 * https://www.pik.ru/
 * https://pikabu.ru/
 * https://hh.ru/
+* https://xakep.ru/
 
 ## Ukraine
 
