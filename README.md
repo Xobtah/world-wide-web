@@ -15,10 +15,12 @@ What's the criteria for a website to be branded as "cool" ?
 * https://pikabu.ru/
 * https://hh.ru/
 * https://xakep.ru/
+* https://astralinux.ru/
 
 ## Ukraine
 
 * http://puzatahata.ua/
+* https://1plus1.ua/
 
 ## Norway
 
