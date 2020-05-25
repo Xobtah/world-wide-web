@@ -18,6 +18,7 @@ What's the criteria for a website to be branded as "cool" ?
 * https://astralinux.ru/
 * https://rosatom.ru/
 * http://www.roscosmos.ru/
+* https://www.m24.ru/
 
 ## Ukraine
 
