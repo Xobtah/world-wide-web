@@ -24,6 +24,7 @@ What's the criteria for a website to be branded as "cool" ?
 
 * http://puzatahata.ua/
 * https://1plus1.ua/
+* https://www.ukr.net/
 
 ## Norway
 
