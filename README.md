@@ -27,7 +27,7 @@ What's the criteria for a website to be branded as "cool" ?
 * https://1plus1.ua/
 * https://www.ukr.net/
 
-## Germany
+## Germany
 * https://x3.de
 
 ## Norway
