@@ -29,6 +29,7 @@ What's the criteria for a website to be branded as "cool" ?
 
 ## Germany
 * https://x3.de
+* http://kultauto.de/
 
 ## Norway
 
