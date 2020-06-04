@@ -20,6 +20,7 @@ What's the criteria for a website to be branded as "cool" ?
 * http://www.roscosmos.ru/
 * https://www.m24.ru/
 * https://deutschonline.ru/
+* https://radiokp.ru/
 
 ## Ukraine
 
