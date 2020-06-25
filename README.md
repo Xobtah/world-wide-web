@@ -23,6 +23,7 @@ What's the criteria for a website to be branded as "cool" ?
 * https://radiokp.ru/
 * http://moskazhor.ru/
 * https://radiomayak.ru/
+* http://pravoslavie.ru/
 
 ## Ukraine
 
