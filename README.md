@@ -73,3 +73,6 @@ What's the criteria for a website to be branded as "cool" ?
 ## Georgia
 
 * http://tbilisifm.ge/
+
+## X
+* https://www.traveldoc.aero/
