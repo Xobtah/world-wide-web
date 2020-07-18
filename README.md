@@ -26,6 +26,7 @@ What's the criteria for a website to be branded as "cool" ?
 * http://pravoslavie.ru/
 * http://lib.ru/
 * https://www.ozon.ru/
+* https://www.mos.ru/
 
 ## Ukraine
 
